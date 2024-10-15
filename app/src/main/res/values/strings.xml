@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ConversorKotlin</string>
+    <string name="enter_a_value_in_meters">Enter a value in meters:</string>
+    <string name="meters">Meters</string>
+    <string name="miles">Miles</string>
+    <string name="feet">Feet</string>
+    <string name="result_will_be_shown_here">Result will be shown here</string>
+    <string name="convert">Convert</string>
+    <string name="el_resultado_es">El resultado es:</string>
+</resources>
